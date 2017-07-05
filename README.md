@@ -1,2 +1,4 @@
 # Start-game
-Hi Adan here, Describing you to rules of the game that how we can win over the game...!
+Hi Adan here
+I am a game editor
+and perfect in creating well graphics games
